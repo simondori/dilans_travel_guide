@@ -1,2 +1,2 @@
-# hobby_projects
-I publish my hobby projects using Bash, SQL and Python.
+# Dilan's TRavel Guide
+I publish my hobby project using Bash, SQL and Python.
